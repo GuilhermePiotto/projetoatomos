@@ -1,6 +1,4 @@
-################################################################################
-###      AULA ANALYTICS PARA AVALIAÇÃO E ANÁLISE DE RISCOS - Prof. Fabiano   ###
-################################################################################
+
 
 # Carregando Pacotes  para Gestão de Carteiras - Teoria de Markowitz
 
@@ -24,17 +22,6 @@ if(sum(as.numeric(!pacotes %in% installed.packages())) != 0){
 data_inicial=Sys.Date()-120
 data_final=Sys.Date()
  
-
-
-
-
-###############################################################################
-# As ações escolhidas a seguir NÃO SÃO RECOMENDAÇÕES DE INVESTIMENTOS POR NOSSA 
-# PARTE, refletem apenas exemplos meramente ilustrativos da prática.
-###############################################################################
-
-
-
 
 acao='PETR4.SA'
 
